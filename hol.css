@@ -1,0 +1,24 @@
+body{
+    border: dotted green;
+}
+header{
+    border: dotted red;
+}
+nav{
+    border: solid purple;
+}
+main{
+    border: solid orange;
+}
+footer{
+    border: solid black;
+}
+article{
+    border: dotted yellow;
+}
+ul{
+    border: dotted pink;
+}
+li{
+   border: dotted grey; 
+}
